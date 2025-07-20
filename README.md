@@ -11,11 +11,6 @@ End-to-End Azure Data Engineering Project using ADF, Databricks, Synapse, and Po
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
 - [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
 
 ## Overview
 
